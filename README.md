@@ -1,6 +1,4 @@
-I can help you create a detailed README file for your `EmojiDetector` project. Here is a draft README based on the information provided:
 
----
 
 # EmojiDetector
 
