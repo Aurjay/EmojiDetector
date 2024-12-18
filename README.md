@@ -77,6 +77,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [OpenCV](https://opencv.org/) for computer vision functionalities.
 - [TensorFlow](https://www.tensorflow.org/) for machine learning models.
 
----
-
-Feel free to customize this README file further to better fit your project's specifics. If you need more detailed sections or additional information, let me know!
